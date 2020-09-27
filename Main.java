@@ -1,7 +1,10 @@
-class Main {
-  public static void main(String[] args) {
-    int myAge = 14;
+public myclass
+{
+   int age,born ;
 
-    System.out.println("i am"+ myAge + "years old");
-    int myBirthday = 06;
+   age = 14;
+   born =06 ;
+   printf("donald is over %d years old and was born in %d.\n", age, reach);
 
+   return 0;
+}
