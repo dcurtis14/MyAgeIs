@@ -1,10 +1,11 @@
-public myclass
+public class FirstClass
 {
-   int age,born ;
-
-   age = 14;
-   born =06 ;
-   printf("donald is over %d years old and was born in %d.\n", age, reach);
-
-   return 0;
+   public static void main(String[] args)
+   {
+      System.out.println("Myage 14");
+      System.out.println(mybirthday);
+      System.out.println(2006);
+      System.out.println(todaysDate);
+      System.out.println(9/26/2020);
+   }
 }
